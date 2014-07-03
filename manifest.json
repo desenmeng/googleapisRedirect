@@ -2,6 +2,7 @@
     "name": "googleapisRedirect",
     "version": "0.0.1",
     "manifest_version": 2,
+    "icons": { "128": "redirect.png" },
     "description": "a chrome extension to redirect googleapis",
     "background":{
         "scripts":["js/redirect.js"]
